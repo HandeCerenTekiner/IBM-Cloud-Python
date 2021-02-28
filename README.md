@@ -1,6 +1,7 @@
 # IBM-Cloud-Python
 Architectue of Example IoT Systems IBM Cloud &amp; Python
 
+**This project is done 6/23/2020**
 1. PuTTY program was downloaded and connected with galera.ii.pw.edu.pl.
 Host Name (or IP address) = galera.ii.pw.edu.pl
 2. Deployed Node-Red Application.
